@@ -686,7 +686,7 @@ width: 95px;
 }
 
 .partner-logo{
-line-height:100px;
+line-height:50px;
 }
 
 #header-menu .current-menu-item a{
@@ -1045,7 +1045,7 @@ max-height: 50px;
 
 @media only screen and (max-width: 767px) {
 	.page-id-6218  .container.page-standard-width {
-		max-width: 100% !important;
+		max-width: 100% !important;	
 	}
 	.page-id-6218 #danamojo-widget-container {
 		max-width: 100% !important;
