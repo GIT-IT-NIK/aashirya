@@ -12,7 +12,10 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 .new{
-	margin-bottom: 120px;
+	margin-bottom: 60px;
+}
+.new1{
+	margin-top: 40px;
 }
 .button {
 font-size: 14px !important;
@@ -27,10 +30,10 @@ font-size: 14px !important;
 .homeBanner .button {
 	font-size: 14px !important;
 }
-.homeBanner .firstCol {
+.homeBanner .lastCol {
 	text-align: center !important;
 }
-.homeBanner .firstCol img {
+.homeBanner .lastCol img {
 	width: 320px;
 }
 .button.whiteBtn {
@@ -909,13 +912,13 @@ max-height: 50px;
 	.homeBanner .aboutSafecity1 {
 		width: 77%;
 	}
-	.homeBanner .firstCol {
+	.homeBanner .lastCol {
 		position: absolute;
 		bottom: 0;
 		left: 0;
 		margin: 0;
 	}
-	.homeBanner .lastCol {
+	.homeBanner .firstCol {
 		height: 100%;
 		position: absolute;
 		right: 0;
@@ -981,10 +984,10 @@ max-height: 50px;
 	.twoButtons a:first-child {
 		margin-bottom: 20px !important;
 	}
-	.centerList .firstCol {
+	.centerList .lastCol {
 		margin-bottom: 0 !important;
 	}
-	.centerList .lastCol {
+	.centerList .firstCol {
 		margin-bottom: 20px;
 	}
 	.homeBanner .aboutSafecity,
@@ -1020,15 +1023,15 @@ max-height: 50px;
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	.homeBanner .firstCol,
-	.homeSection2 .firstCol {
+	.homeBanner .lastCol,
+	.homeSection2 .lastCol {
 		position: relative !important;
-		order: 2 !important;
+		order: 1 !important;
 		margin-bottom: 0 !important;
 		width: 100% !important;
 	}
-	.homeBanner .lastCol,
-	.homeSection2 .lastCol {
+	.homeBanner .firstCol,
+	.homeSection2 .firstCol {
 		position: relative !important;
 		order: 1 !important;
 		width: 100% !important;
