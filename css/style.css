@@ -11,6 +11,9 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+.new{
+	margin-bottom: 120px;
+}
 .button {
 font-size: 14px !important;
     line-height: 25px !important;
