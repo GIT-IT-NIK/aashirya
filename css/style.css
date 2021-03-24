@@ -1,0 +1,1050 @@
+/*
+	Theme Name: Micron Child
+	Theme URI: http://www.micron.ninzio.com
+	Description: Micron Multipurpose Responsive Retina-Ready  Wordpress Premium Child Theme
+	Author: Ninzio Team
+	Author URI: http://www.ninzio.com
+	Template:micron
+	Version: 1.1
+*/
+@import url("style_1.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.button {
+font-size: 14px !important;
+    line-height: 25px !important;
+}
+.homeBanner,
+.homeSection2,
+.homeSection3 {
+    font-family: 'Roboto', sans-serif;
+}
+/* Home Banner Start */ 
+.homeBanner .button {
+	font-size: 14px !important;
+}
+.homeBanner .firstCol {
+	text-align: center !important;
+}
+.homeBanner .firstCol img {
+	width: 320px;
+}
+.button.whiteBtn {
+	line-height: 15px !important;
+}
+.homeBanner .aboutSafecity1 {
+	color: #ffffff !important;
+	font-size: 14px !important;
+    line-height: 20px !important;
+	font-family: "Roboto", sans-serif;
+	font-weight: 300 !important;
+}
+.homeBanner .box {
+	margin-bottom: 10px !important;
+}
+.homeBanner .whiteBtn {
+	background-color: #ffffff !important;
+	color: #504E4E !important;
+	margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.shareStory {
+	margin-top: 10px;
+}
+.homeBanner .aboutSafecity {
+	margin-bottom: 15px;
+}
+.homeBanner .icon-container {
+	width: 33px !important;
+}
+.homeBanner p:empty {
+   display: none !important;
+}
+.homeBanner .box-text {
+	margin-left: 0 !important;
+	color: #ffffff !important;
+}
+.twoButtons p:first-child {
+	margin: 0 !important;
+}
+.aboutSafeCity2 {
+	color: #5a308f !important;
+	font-size: 15px !important;
+	line-height: 22px !important;
+}
+.homeSection2 {
+	background-color: #ffffff !important;
+}
+.secTitle {
+	color: #ffffff !important;
+	font-size: 24px !important;
+    line-height: 34px !important;
+    margin-bottom: 15px;
+}
+.homeSection2 .aboutSafeCity2 {
+	margin-bottom: 20px !important;
+}
+.dFlex {
+	display: flex;
+    justify-content: flex-start;
+}
+.dFlex a:first-child {
+	margin-right: 22px;
+}
+.secTitle1 {
+	color: #000000 !important;
+	font-size: 24px !important;
+    line-height: 34px !important;
+    margin-bottom: 15px;
+}
+.alignCenter {
+	text-align: center !important;
+}
+
+.textDark {
+	color: #000000 !important;
+}
+.btnPurple,
+.button.small,
+button {
+	background-color: #6C41B7 !important;
+	font-size: 15px !important;
+}
+.f16px {
+	font-size: 16px !important;
+}
+.homeSection3 {
+	background-color: #F5FAFD !important;
+	float: left;
+	width: 100%;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.centerList {
+	color: #2C2A2A !important;
+}
+.homeSection3 .secTitle {
+    font-size: 22px !important;
+    line-height: 27px !important;
+    margin-bottom: 16px;
+}
+.twoButtons a:first-child  {
+	margin-right: 22px;
+}
+.twoButtons p:last-child {margin-bottom: 0px !important;}
+.twoButtons {
+    width: 100%;
+}
+.centerList .icon-container {
+	width: 35px !important;
+    height: 25px !important;
+    line-height: 22px !important;
+}
+.centerList .box {
+	margin-bottom: 20px !important;
+}
+.homeBanner .content-box img,
+.centerList img {
+	width: 20px !important;
+    margin-top: 0;
+}
+.imgCenter {
+	text-align: center;
+}
+.imgCenter img {
+	margin: 0 auto;
+}
+/* Home Banner End */ 
+
+.tagline .tagline-co.tagline-title {
+margin-bottom: 0;
+text-align: right;
+padding-right: 40px;
+vertical-align: middle;
+}
+
+.tagline .container .tagline-co:last-child {
+min-width: 300px;
+text-align: left;
+vertical-align: middle;
+}
+
+.tagline-title h2{
+font-size:20px;
+}
+
+.center{
+text-align:center;
+}
+
+.box-title.center, .headings-title{
+margin: 20px 0 30px;
+border-bottom: 1px solid #eee;
+padding: 20px 0;
+}
+
+.image-round, .image-round img{
+-moz-border-radius: 110px;
+-webkit-border-radius: 110px;
+border-radius: 110px;
+behavior:url(../PIE.htc);
+}
+
+.icon-container{
+width: 75px;
+float: left;
+}
+
+.col3-icon-box .box-text{
+margin-left: 90px;
+}
+
+.col3-icon-box .box-text span{
+line-height: 75px;
+}
+
+.big-image-left{
+width: 28%;
+float: left;
+margin-right:2%;
+}
+
+.pull-left-50{
+float: left;
+width: 50%;
+}
+
+.pull-left-70{
+float: left;
+width: 70%;
+}
+
+.home-blog-story{
+margin-left: 15px;
+width: 68%;
+text-align: justify;
+}
+
+.home-blog-img{
+margin-top: 6px;
+}
+
+.home-top-block{
+}
+
+.bold_label{
+font-weight:bold;
+}
+
+.campaign_btns{
+margin-top:15px;
+}
+
+.campaign_detail_blocks{
+display:table; 
+}
+
+.button-icon i{ 
+padding-right:5px;
+}
+
+.campaign_btns{
+float: left;
+}
+
+.single-services-products .campaign_btns{
+margin-top: 10px;
+}
+
+.logo-services{
+float: left;
+width: 65px;
+margin-right: 10px;
+}
+
+.single-campaigns .post-social-share, .single-services-products .post-social-share {
+float: right;
+display: inline-block;
+padding-top: 0;
+border-top: none; 
+margin-top: 18px;
+}
+
+.campaign_detail_label{
+display: table-cell; width: 30%;
+}
+
+.post-type-archive-services-products .post-body {
+
+}
+
+.right-container{
+float:right;
+}
+
+.left-container{
+float:left;
+}
+
+.post-social-cont{
+border-top: 1px solid #e0e0e0;
+display: inline-block;
+width:100%;
+}
+
+.post-type-archive-services-products .post-social-share, .single-products-services .post-social-share{
+border-top: none; 
+margin-top: 0;
+}
+
+.single-products-services .post-social-share{
+float:right;
+}
+
+.title-container{
+border-bottom: 1px solid #e0e0e0;
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.loop article {
+margin-bottom: 24px;
+}
+
+.read-more {
+margin-top:10px;
+}
+
+#campaign-categories li a:before, #campaign-locations li a:before{
+display:none;
+}
+ 
+#campaign-categories li i, #campaign-locations li i{
+color:#f34a53;
+}
+
+.product-services-page{
+display: inline-block;
+width: 100%;
+}
+
+.product-services-page .post-title{
+float:left;
+}
+
+.product-services-page .category-icon{
+width: 45px;
+height: 45px;
+float: right;
+}
+
+.volunteer-name-desig{
+width:15%;
+float:left;
+margin-right: 20px;
+}
+
+.volunteer-thumb{
+width:11%;
+float:left;
+margin-right:20px;
+}
+
+.volunteer-extra-info{
+width:70%;
+float:left;
+}
+
+.social-icon-links{
+display:inline-block;
+width: 100%;
+}
+
+.social-icon-links li{
+display:inline-block;
+list-style-type:none;
+}
+
+.social-icon-links li i{
+width: 30px;
+height: 30px;
+margin: 0;
+font-size: 18px;
+line-height: 30px;
+}
+
+.volunteer-extra-info .read-more{
+float:left;
+margin-top: 17px;
+}
+
+.volunteer-extra-info .right-additional-info{
+float:right;
+}
+
+#tabs-1 .tab{
+width:24.9%;
+}
+
+.tabs-container{
+border-top:1px solid #f34a53 !important;
+}
+
+.tabset .tab.active{
+background-color: #f34a53;
+color:#fff !important;
+}
+
+.tabset .tab{ 
+background-color: transparent;
+}
+
+.quote_open{
+position: relative;
+top: -10px;
+}
+
+.quote_close{
+position: relative;
+bottom: -10px;
+}
+
+.volunteer_quote{
+font-size: 18px;
+font-style: italic;
+}
+
+#wrap, #wrap.full{
+background-color:transparent !important;
+}
+
+.ninzio-overlay, .ninzio-overlay a.ninzio-more, .ninzio-overlay a.ninzio-zoom{
+background-color:transparent !important;
+background:none !important;
+opacity: 1
+}
+
+.ninzio-overlay:hover, .ninzio-overlay a.ninzio-more{
+background-color:transparent;
+background:none;
+}
+
+article.type-campaigns, article.products-services, article.partners, article.volunteer-activities, .blog-layout article.post, .ninzio-navigation li a, article.volunteers, .modal_box_shadow {
+box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+-webkit-box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+-moz-box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+}
+.single  article.type-campaigns, .single  article.products-services{
+box-shadow: none;
+}
+
+.hideform{
+padding: 20px;
+background-color: #FCFCFC;
+border-radius: 5px;
+border: solid 1px #E4E4E4;
+margin-top: 15px;
+}
+
+.post-social-share a.post-twitter-share {
+background-color: #29b2e4;
+opacity:0.5;
+color: #ffffff !important;
+}
+
+.post-social-share a.post-facebook-share {
+background-color: #3b5998;
+color: #ffffff !important;
+opacity:0.5;
+}
+
+.post-social-share a.post-google-share {
+background-color: #de4b39;
+color: #ffffff !important;
+opacity:0.5;
+}
+
+.post-social-share a.post-pinterest-share {
+background-color: #bd3339;
+color: #ffffff !important;
+opacity:0.5;
+}
+
+.post-social-share a:hover{
+opacity:1;
+}
+
+.no_item_container{
+width: 100%;
+padding: 28% 2%;
+border: 4px dashed #ddd;
+text-align: center;
+}
+
+.ul_childs{
+text-indent: 7px;
+}
+
+.partner-intro-text
+{
+ padding-top:25px;
+}
+.partner-intro-text .splitter
+{
+margin-bottom:-25px !important;
+}
+.partner-category
+{
+ padding:15px 0;
+   font-weight: bold;
+ }
+ 
+ .campaign_detail_blocks{
+ width:100%;
+ }
+ 
+ .horizontal .tabset .tab.active:after, .wpb_tabs .wpb_tabs_nav li.active:after { background-color:#f34a53; }
+ 
+ .contact-form{
+ margin-top: 40px;
+ }
+ 
+.enquiry-form-author{
+	float: left;
+	width: 32%;
+	margin-right: 2%;
+}
+
+.enquiry-form-last{
+	float: left;
+	width: 32%;
+}
+
+.enquiry-form-author input, .enquiry-form-last input{
+width:100%;
+}
+
+ .wpcf7-submit{
+ padding: 10px 22px 10px 22px !important;
+font-size: 12px !important; 
+line-height: 18px !important;
+ }
+ 
+ .volunteer-activity-btns{
+ overflow: auto;
+ }
+ 
+.volunteer-activity-btns .read-more {
+ float: left;
+ margin-top: 0;
+padding-top: 5px;
+ }
+ 
+.volunteer-activity-btns .categories{
+ float:right;
+ line-height: 48px;
+ max-width: 50%;
+ }
+ 
+ .hideform{
+ display:none;
+ }
+ 
+.events-list .tribe-events-loop, .tribe-events-day .tribe-events-loop, .single-tribe_venue .tribe-events-loop, .single-tribe_organizer .tribe-events-loop {
+max-width: 100% !important;
+margin: 0 auto;
+}
+
+.tribe-events-list-separator-month span {
+background-color: #f34a53 !important;
+padding: 10px 20px !important;
+color: #fff;
+}
+
+.tribe-events-loop .type-tribe_events{
+background-color: #fff;
+padding: 20px !important;
+box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+margin-bottom: 20px !important;
+}
+
+#header-menu .current-menu-item{
+background-color: #f34a53;
+}
+
+.tribe-events-read-more{
+padding: 10px 22px 10px 22px;
+font-size: 12px;
+line-height: 18px;
+background-color: #f34a53;
+color:#fff !important;
+text-decoration: none;
+font-family: "Roboto", sans-serif;
+font-weight: normal;
+cursor: pointer;
+display: inline-block;
+outline: 0;
+overflow: visible;
+vertical-align: middle;
+width: auto;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+margin: 0 5px 5px 0;
+border: none;
+max-width: 100%;
+border-radius: 3px;
+-webkit-backface-visibility: hidden;
+-webkit-transition: all ease-out 0.25s;
+-moz-transition: all ease-out 0.25s;
+-o-transition: all ease-out 0.25s;
+-ms-transition: all ease-out 0.25s;
+transition: all ease-out 0.25s;
+}
+
+.single-portfolio .content {
+padding: 30px 0 0 0;
+}
+
+.tabs{
+padding: 15px 0;
+}
+
+.home_shortcode_blog_post{
+clear:both;
+display: inline-block;
+padding-bottom: 10px;
+}
+
+.content {
+padding: 20px 0 0 0;
+}
+
+table.important-numbers{
+width:100%;
+}
+
+footer{
+margin-top: 30px;
+}
+
+.home footer{
+margin-top: 0;
+}
+
+.dataTables_wrapper input[type="search"]{
+height:25px;
+}
+
+.dataTables_wrapper select{
+height: 35px;
+}
+
+.dataTables_wrapper label{
+line-height:35px;
+}
+
+.dataTables_filter{
+margin-bottom:20px;
+}
+
+table.dataTable tbody tr {
+background-color: transparent !important;
+}
+
+.gallery_title, .map_title{
+width: 100%;
+clear: both;
+margin: 20px 0;
+}
+
+.single-portfolio .project-client > span:first-child {
+width: 95px;
+}
+
+.partner-logo{
+line-height:100px;
+}
+
+#header-menu .current-menu-item a{
+color:#fff;
+}
+
+@media only screen and (max-width: 1280px){
+.volunteer-name-desig{
+width:15%;
+float:left;
+margin-right: 18px;
+}
+
+.volunteer-thumb{
+width:11%;
+float:left;
+margin-right:18px;
+}
+
+.volunteer-extra-info{
+width:70%;
+float:left;
+}
+}
+
+@media only screen and (min-width: 1024px) {
+.campaign_detail_label{
+display: table-cell; width: 40%;
+}
+
+}
+
+@media only screen and (max-width: 768px)  {
+
+.content-box{
+display: inline-block;
+width: 100%;
+}
+
+.content-box.columns-4 > .box, .content-box.columns-3 > .box, .content-box.columns-2 > .box, .content-box.columns-1 > .box{
+display: inline-block;
+}
+
+.one_quarter, .one_third, .one_half, .two_thirds, .three_quarters{
+display: inline-block;
+}
+
+.shortcode .big-image-left {
+width: 25%;
+}
+
+.pull-left-50 {
+float: left;
+width: 100%;
+}
+
+#home-top-icon-bocks .icon-container{
+float: none;
+margin: auto;
+}
+
+#home-top-icon-bocks .home-top-block{
+float: none;
+clear: both;
+margin: auto;
+text-align: center;
+}
+
+.single-campaigns .campaign_btns, .single-campaigns .post-social-share{
+float:left;
+}
+
+#tabs-1 .tab {
+width: 100%;
+}
+
+.big-image-left {
+width: 100%;
+clear: both;
+margin-bottom: 15px;
+}
+
+.pull-left-70 {
+float: left;
+width: 100%;
+}
+
+.volunteer-name-desig{
+width:100%;
+float:left;
+margin-right: 0;
+}
+
+.volunteer-thumb{
+width:100%;
+float:left;
+margin-right:0;
+}
+
+.volunteer-extra-info{
+width:100%;
+float:left;
+margin-top: 15px;
+}
+
+.tribe-events-sub-nav li a{
+background-color:transparent !important;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+.campaign_detail_label span{
+display:none;
+}
+
+.campaign_detail_label {
+display: table-cell;
+width: 15%;
+}
+
+.tabset{
+float: left;
+width: 47%;
+margin-right: 20px;
+}
+
+.tabs-container{
+border-top: 0 !important;
+float: left !important;
+width: 50% !important;
+}
+
+#tabs-1 .tab {
+width: 100%;
+}
+
+.big-image-left {
+width: 100%;
+clear: both;
+margin-bottom: 15px;
+}
+
+.pull-left-70 {
+float: left;
+width: 100%;
+}
+
+.volunteer-name-desig{
+width:15%;
+float:left;
+margin-right: 14px;
+}
+
+.volunteer-thumb{
+width:11%;
+float:left;
+margin-right:13px;
+}
+
+.volunteer-extra-info{
+width:70%;
+float:left;
+}
+
+.one_thirds{
+width:30%;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+.height-100.header .logo a img {
+max-height: 50px;
+}
+
+}
+@media only screen and (min-width: 1317px) and (max-width: 1328px) {
+	.homeBanner {
+		height: 580px !important;
+	}
+}
+@media only screen and (min-width: 1122px) and (max-width: 1316px) {
+	.homeBanner {
+		height: 600px !important;
+	}
+}
+@media only screen and (min-width: 1015px) and (max-width: 1121px) {
+	.homeBanner {
+		height: 630px !important;
+	}
+}
+@media only screen and (min-width: 977px) and (max-width: 1014px) {
+	.homeBanner {
+		height: 650px !important;
+	}
+}
+@media only screen and (min-width: 906px) and (max-width: 976px) {
+	.homeBanner {
+		height: 670px !important;
+	}
+}
+@media only screen and (min-width: 890px) and (max-width: 905px) {
+	.homeBanner {
+		height: 700px !important;
+	}
+}
+@media only screen and (min-width: 861px) and (max-width: 889px) {
+	.homeBanner {
+		height: 720px !important;
+	}
+}
+@media only screen and (min-width: 853px) and (max-width: 860px) {
+	.homeBanner {
+		height: 750px !important;
+	}
+}
+@media only screen and (min-width: 853px) {
+	.homeBanner .aboutSafecity {
+		width: 77%;
+	}
+	.homeBanner .aboutSafecity1 {
+		width: 77%;
+	}
+	.homeBanner .firstCol {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		margin: 0;
+	}
+	.homeBanner .lastCol {
+		height: 100%;
+		position: absolute;
+		right: 0;
+		top: 40px;
+	}
+	.homeBanner .button {
+		min-width: 330px !important;
+		font-size: 14px !important;
+	}
+	.btnPurple {
+		min-width: 330px;
+	}
+	.homeSection2 > .container {
+		display: flex;
+		align-items: center;
+	}
+	.homeSection2 .aboutSafeCity2 {
+		width: 68%;
+	}
+	.twoButtons {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.homeBanner {
+		width: 100%;
+		height: 560px;
+		background-image: url('../images/home-banner.jpg');
+		background-size: cover;
+		position: relative;
+	}
+	.homeBanner .aboutSafecity,
+.homeBanner .content-box span {
+		color: #ffffff !important;
+		font-size: 15px !important;
+		line-height: 25px !important;
+		font-family: "Roboto", sans-serif;
+		font-weight: 300 !important;
+	}
+	.hideDesktop {
+		display: none !important;
+	}
+	.centerList {
+		width: 76%;
+		margin: 30px auto 0;
+	}
+	.homeSection2 {
+		padding-top: 120px !important;
+		padding-bottom: 120px !important;
+	}
+	.twoButtons .btnPurple {
+		min-width: 250px !important;
+	}
+}
+@media only screen and (max-width: 852px) {
+	.homeSection2 {
+		padding-top: 60px !important;
+		padding-bottom: 60px !important;	
+	}
+	.centerList {
+		margin-top: 50px;
+	}
+	.twoButtons a:first-child {
+		margin-bottom: 20px !important;
+	}
+	.centerList .firstCol {
+		margin-bottom: 0 !important;
+	}
+	.centerList .lastCol {
+		margin-bottom: 20px;
+	}
+	.homeBanner .aboutSafecity,
+	.homeBanner .content-box span {
+		color: #ffffff !important;
+		font-size: 16px !important;
+		line-height: 30px !important;
+		font-family: "Roboto", sans-serif;
+		font-weight: 300 !important;
+	}
+	.homeBanner {
+		width: 100%;
+		background-image: url('../images/homeBanner1.png');
+		background-size: cover;
+		position: relative;
+	}
+	.hideMobile {
+		display: none !important;
+	}
+	.homeBanner .button,
+	.homeSection2 .button,
+	.homeSection3 .button {
+		width: 100% !important;
+	}
+	.homeSection2,
+	.homeSection3 {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.homeBanner {
+		height: auto !important;
+		display: grid;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.homeBanner .firstCol,
+	.homeSection2 .firstCol {
+		position: relative !important;
+		order: 2 !important;
+		margin-bottom: 0 !important;
+		width: 100% !important;
+	}
+	.homeBanner .lastCol,
+	.homeSection2 .lastCol {
+		position: relative !important;
+		order: 1 !important;
+		width: 100% !important;
+		margin-top: 50px;
+    	margin-bottom: 0 !important;
+	}
+	.homeSection2 > .container {
+		max-width: 100% !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.page-id-6218  .container.page-standard-width {
+		max-width: 100% !important;
+	}
+	.page-id-6218 #danamojo-widget-container {
+		max-width: 100% !important;
+	}
+	#ngoContentContainer #dm_mobile_view_top_bar .row-child-r {
+/* 		font-size: 14px !important; */
+	}
+}
