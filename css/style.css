@@ -12,7 +12,7 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 .new{
-	margin-bottom: 60px;
+	margin-bottom: 0px;
 }
 .new1{
 	margin-top: 40px;
@@ -1035,7 +1035,7 @@ max-height: 50px;
 		position: relative !important;
 		order: 1 !important;
 		width: 100% !important;
-		margin-top: 50px;
+		margin-top: 80px;
     	margin-bottom: 0 !important;
 	}
 	.homeSection2 > .container {
